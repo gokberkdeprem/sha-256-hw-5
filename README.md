@@ -8,7 +8,7 @@ Used framework: Express.Js
 
 **How To Use It?**  
 Use postman or alternative apps to send a post request to:  
-https://sha256-hw-5.herokuapp.com//messages endpoint.  
+https://sha256-hw-5.herokuapp.com/messages endpoint.  
   
 You should send it in text format and as raw data.  
 Choose Content-Type: text/plain.  
